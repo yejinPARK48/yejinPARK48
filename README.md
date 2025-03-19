@@ -29,13 +29,13 @@ Here’s a collection of several projects I worked on during my undergraduate st
  
   * [Analyzing HR Data using Machine Learning](https://github.com/yejinPARK48/Analyzing-HR-Data-using-Machine-Learning/tree/main): Analyzed HR data from 14,999 employees to identify the key factors influencing turnover using various machine learning algorithms such as Logistic Regression, Decision Trees, Support Vector Machines, Random Forests, and Artificial Neural Networks.
 
-   * Multivariate Analysis of Diabetes in 2015: Analyzed BRFSS survey data from 253,680 Americans to predict diabetes using machine learning models including ANN, Logistic Regression, and Decision Trees, integrating socio-economic and physiological factors.
-
-* **SAS programming**
-  * Predicting the Index Trend of 'KOSPI' through Time Series Analysis: Predicted trends in the Korea Composite Stock Price Index (KOSPI) using search volume data from 2016 to 2021, and construted an ARIMA model.
+   * [Predictive Machine Learning Models for Diabetes Onset](https://github.com/yejinPARK48/Predictive-Models-for-Diabetes): Analyzed BRFSS survey data from 253,680 Americans to predict diabetes using machine learning models including ANN, Logistic Regression, and Decision Trees, integrating socio-economic and physiological factors.
 
 * **Python programming**
   * [Fine-Tuning BERT for Fake News Detection](https://github.com/yejinPARK48/VerifyNews_using_Transformer): Developed a transformer-based BERT(Bidirectional Encoder Representations from Transformers) model that efficiently classified real and fake news articles, leveraging a dataset of 72,134 news titles and applying key techniques such as preprocessing, text cleaning, tokenization, padding, and hyperparameter tuning.
+
+* **SAS programming**
+  * Predicting the Index Trend of 'KOSPI' through Time Series Analysis: Predicted trends in the Korea Composite Stock Price Index (KOSPI) using search volume data from 2016 to 2021, and construted an ARIMA model.
 
 ---
 
